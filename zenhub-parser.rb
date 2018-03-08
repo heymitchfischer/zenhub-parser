@@ -1,7 +1,7 @@
 require 'unirest'
 require 'csv'
 
-# Two Step Zenhub IssueParser:
+# Two Step Zenhub Issue Parser:
 
 # First, uncomment and assign the following variables:
 # zenhub_access_token = <FOR ACCESS TOKEN GO TO https://app.zenhub.com/dashboard/tokens AND GENERATE NEW TOKEN>
